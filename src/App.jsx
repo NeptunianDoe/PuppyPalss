@@ -1,7 +1,8 @@
 import {puppyList} from './data.js'
 import { useState } from 'react' //helps to reflect updated data via react component 
 //import './App.css'
-import './path-to-css.css'
+import './index.css'
+import './App.css'
 
 
 function App() {
